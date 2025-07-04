@@ -2,12 +2,12 @@ Facial Landmarks
 
 ![land1](https://github.com/user-attachments/assets/b0bb2a25-81db-4c1c-b77a-0d4228dc852b)
  
- MediaPipe and Euclidean Distance
- Inter-Pupillary Distance (IPD)
- Feature Standardization Using StandardScaler
- Handling Class Imbalance Using SMOTE
+ MediaPipe and Euclidean Distance <br>
+ Inter-Pupillary Distance (IPD) <br>
+ Feature Standardization Using StandardScaler <br>
+ Handling Class Imbalance Using SMOTE <br>
   
- Effectively detects stress with strong precision and recall scores
+ Effectively detects stress with strong precision and recall scores 
  Maintains a balanced classification performance
  Achieves high interpretability through feature importance ranking
  Exhibits good generalization (AUC = 0.72)
@@ -17,10 +17,10 @@ Facial Landmarks
 
   ![72](https://github.com/user-attachments/assets/a502c8d5-cdcb-4769-ac1c-e238c269ad40)
 
-  True Positives (Stress correctly identified): 835
-  True Negatives (Non-Stress correctly identified): 633
-  False Positives (Non-Stress misclassified as Stress): 251
-  False Negatives (Stress misclassified as Non-Stress): 199
+  True Positives (Stress correctly identified): 835 <br>
+  True Negatives (Non-Stress correctly identified): 633 <br>
+  False Positives (Non-Stress misclassified as Stress): 251 <br>
+  False Negatives (Stress misclassified as Non-Stress): 199 <br>
 
   ![Matrix](https://github.com/user-attachments/assets/5c077d9f-ae5a-483f-8f82-3efddd79d15d)
 
